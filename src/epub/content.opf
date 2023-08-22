@@ -42,14 +42,19 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta id="collection-1" property="belongs-to-collection">The Human Comedy</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta id="collection-2" property="belongs-to-collection">The Human Comedy: Scenes from Private Life</meta>
+		<meta property="collection-type" refines="#collection-2">series</meta>
+		<dc:description id="description">Two women write letters to tell each other about their lives and loves.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Letters of Two Brides&lt;/i&gt; is an epistolary novel, largely consisting of letters between two women who become friends in a convent in their teenage years. They begin their correspondence when each departs the order as young women and embark on their lives in different areas of France. Louise is a woman of passion, a lover of love, who must have a great romance in order to be fulfilled. Renée is measured, a women of sense, desiring a love that will last a lifetime rather than (in her way of thinking) flame out like a comet. In several of their epistles, each takes the other to task over her approach to life and love, because it does not align with the viewpoint of the writer. As their age and respective marriages progress, it becomes obvious where &lt;a href="https://standardebooks.org/ebooks/honore-de-balzac"&gt;Balzac’s&lt;/a&gt; sympathies lie.&lt;/p&gt;
+			&lt;p&gt;One of the later additions to The Human Comedy, &lt;i&gt;Letters of Two Brides&lt;/i&gt; was originally serialized (and heavily bowdlerized) in the French journal &lt;i&gt;La Presse&lt;/i&gt; in 1841, in three parts rather than two. It was not until the second edition of the novel that it was repartitioned into its present form.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1941</dc:source>
 		<dc:source>https://archive.org/details/daughterofeveand00balziala</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">Diacritics were missing from the transcription and had to be manually added.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Mémoires_de_deux_jeunes_mariées</meta>
