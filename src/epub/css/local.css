@@ -47,8 +47,8 @@ footer{
 
 [epub|type~="z3998:verse"] p > span{
 	display: block;
-	text-indent: -1em;
 	padding-left: 1em;
+	text-indent: -1em;
 }
 
 [epub|type~="z3998:verse"] p > span + br{
@@ -81,7 +81,7 @@ hgroup + [epub|type~="se:letter.dateline"] + p{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:recipient"] {
+[epub|type~="z3998:recipient"]{
 	font-style: italic;
 	margin-bottom: 1em;
 	text-align: center;
@@ -97,4 +97,5 @@ hgroup + [epub|type~="se:letter.dateline"] + p{
 	font-variant: small-caps;
 	margin-bottom: 1em;
 }
+
 /* custom */
