@@ -66,6 +66,7 @@
 		<dc:contributor id="translator">R. S. Scott</dc:contributor>
 		<meta property="file-as" refines="#translator">Scott, R. S.</meta>
 		<meta property="se:name.person.full-name" refines="#translator">Rachel Scott</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no2003126888</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Rachel_Scott_(women%27s_education_reformer)</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Jean-Baptiste-Camille Corot</dc:contributor>
