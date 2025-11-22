@@ -29,7 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Letters of Two Brides</dc:title>
 		<meta property="file-as" refines="#title">Letters of Two Brides</meta>
-		<meta property="dcterms:alternate" refines="#title">Letters of 2 Brides</meta>
+		<meta property="dcterms:alternative" refines="#title">Letters of 2 Brides</meta>
 		<dc:subject id="subject-1">Married women -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Epistolary fiction</dc:subject>
 		<dc:subject id="subject-3">Man-woman relationships -- Fiction</dc:subject>
