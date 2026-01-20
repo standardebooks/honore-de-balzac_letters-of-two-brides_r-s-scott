@@ -55,7 +55,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1941</dc:source>
 		<dc:source>https://archive.org/details/daughterofeveand00balziala</dc:source>
-		<meta property="se:word-count">84900</meta>
+		<meta property="se:word-count">84386</meta>
 		<meta property="se:reading-ease.flesch">68.91</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Mémoires_de_deux_jeunes_mariées</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/honore-de-balzac_letters-of-two-brides_r-s-scott</meta>
